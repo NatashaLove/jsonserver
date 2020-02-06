@@ -1,9 +1,24 @@
 {
-    "blogposts": [
-        {
-            "id": 1,
-            "title": "API POST",
-            "content": "content for my post"
-        }
-    ]
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "Be mine",
+      "content": "I want that job in rural SOURCING",
+      "id": 2
+    },
+    {
+      "title": "New post",
+      "content": "Create",
+      "id": 3
+    },
+    {
+      "title": "New",
+      "content": "See?",
+      "id": 4
+    }
+  ]
 }

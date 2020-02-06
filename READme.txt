@@ -51,6 +51,10 @@ test in 2 terminals:
 //- so we must use the new url in ReactNative ( http://4131c3f0.ngrok.io - is the url,for ex).
 // can pay for nGrok account (not much) - don't have to restart, will get a static subdomain.
 //otherwise- if someone uses the app- i'll have to make sure manually update the url in React Native...(inconvenient, unstable)...
+***
+Ngrok is just a way for your backend server to communicate with your Expo app. The data saved in your json file or database would still persist as you would expect. 
+Just the communication tunnel between the two goes away. Once you create a new URL and update the baseURL your backend and app will be able to talk to each other again.
+***
 
 //TOTAL 3 terminal windows now for a project: 
 !whenever we're going to do development on our application we're going to run three different terminal windows:
