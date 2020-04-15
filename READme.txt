@@ -1,13 +1,13 @@
 *****//This file - db.json-
 
-// is where our Jason server is going to eventually store all of its information- all the blog POsts.
+// is where our Json server is going to eventually store all of its information- all the blog POsts.
 //We have to create this file ahead of time and inside of here we're going to add some configuration
 //to tell Jason server about the different types of resources that we wanted to manage.
 
 {
     "blogposts": []   // key:value
 }
----create a endpoint for managing a resource called "blogpost" - all the blog posts we create are going to end up as objects inside this array [].
+---create a endpoint for managing a resource called "blogpost" - all the blog posts we create are going to end up as objects inside this array []!!!
 ---can manually add in a blog post initially - Just adding in an object inside of that empty array- and it'll be at the server:
 "blogposts": [
         {

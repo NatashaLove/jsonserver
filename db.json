@@ -1,24 +1,1881 @@
 {
-  "blogposts": [
+  "reports": [
     {
-      "id": 1,
-      "title": "API POST",
-      "content": "content for my post"
-    },
-    {
-      "title": "Be mine",
-      "content": "I want that job in rural SOURCING",
+      "date": "3/4/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:",
+          "content": {
+            "text": "EXAMPLE"
+          }
+        },
+        {
+          "id": 2,
+          "title": "*",
+          "content": {
+            "text": " TO FIND REPORT BY DATE:"
+          }
+        },
+        {
+          "id": 3,
+          "title": "**:",
+          "content": {
+            "text": "ENTER DATE IN FORMAT-"
+          }
+        },
+        {
+          "id": 4,
+          "title": "***:",
+          "content": {
+            "text": "AS IN <3/4/2020>"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Notes:",
+          "content": {
+            "text": "Natasha1ove"
+          }
+        }
+      ],
       "id": 2
     },
     {
-      "title": "New post",
-      "content": "Create",
+      "date": "3/23/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "731$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62$, Natasha-76$, Hollin-72$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "140$ (should be 143$)"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "200$"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp+260$ (should be 270$)"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole +40$ (should be 32$)"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": ""
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "31$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Medikind money+22$ - in HG envelope."
+          }
+        }
+      ],
       "id": 3
     },
     {
-      "title": "New",
-      "content": "See?",
+      "date": "3/24/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "70"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art 62, Dane 62"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Mm-0"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole-0"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "PP+40"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
       "id": 4
+    },
+    {
+      "date": "3/25/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "840$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62$, Natasha-76$, Hollin-72$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "120$ (should be 127$)"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "160$"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole+150$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Pp+ 180$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Medikind-0"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "170$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "In drawer: 100*1$ and 14*5$"
+          }
+        }
+      ],
+      "id": 5
+    },
+    {
+      "date": "3/26/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane Lyman"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "146$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Hollin-72$, Dane -100$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "120$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole+75$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Pp+ 240$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Medikind-0"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {}
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Paid for buffalo roze order out of drawer 175$"
+          }
+        }
+      ],
+      "id": 6
+    },
+    {
+      "date": "3/27/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Hollin"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": ""
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": ""
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": ""
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": ""
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": ""
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "3/27/2020"
+          }
+        }
+      ],
+      "id": 7
+    },
+    {
+      "date": "3/28/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Art"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": ""
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "170"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": ""
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "3/28/2020"
+          }
+        }
+      ],
+      "id": 8
+    },
+    {
+      "date": "3/29/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "581"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62$,Natasha-76$,Hollin-72$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+100$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0(no cash)"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp+180$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole +80$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "161$ (in 1$ and 5$ bills)"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "The Drawer was almost 50$ OVER.. couldn't figure why.."
+          }
+        }
+      ],
+      "id": 9
+    },
+    {
+      "date": "3/30/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "287$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62$, Hollin-72$, Natasha-76$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "60$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole+20$ (should be 31$)"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Pp-0 (should be 48$, no cash)"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "147$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": ""
+          }
+        }
+      ],
+      "id": 10
+    },
+    {
+      "date": "3/31/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": ""
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": ""
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": ""
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": ""
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": ""
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "3/31/2020"
+          }
+        }
+      ],
+      "id": 11
+    },
+    {
+      "date": "4/1/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "634$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62, Hollin- 72, Natasha-76"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+100$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Dank +20$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Pp+320$ (should be 360$)"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Poole-0"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "134$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 12
+    },
+    {
+      "date": "4/2/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "X"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": ""
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": ""
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": ""
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dankland"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "4/2/2020"
+          }
+        }
+      ],
+      "id": 13
+    },
+    {
+      "date": "4/3/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "58"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Dane 162 Hollin 100"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "180"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "40"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "PP 400"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole 100"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dankland 60"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "58"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Paid 172 for supplies"
+          }
+        }
+      ],
+      "id": 14
+    },
+    {
+      "date": "4/4/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "71"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "162 Dane Art 94"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "-100"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "20"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "PP 200"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole 60"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "DL 40"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "71"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 15
+    },
+    {
+      "date": "4/5/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "332$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art 62$, Hollin 72$, Natasha 76$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+80$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp-0(should be 66$, no cash)"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole+ 60$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dank+20$"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "112$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 16
+    },
+    {
+      "date": "4/6/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "629$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art-62$, Hollin-72$,Natasha-76$ "
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+100$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "+40$"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp +160$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole +60$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dank +20$"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "189$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 17
+    },
+    {
+      "date": "4/7/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "726"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Dane 62 Art 62"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "80"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "240"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole 60"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "DL 20"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "PP 60"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "204"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 18
+    },
+    {
+      "date": "4/8/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "444$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art:62$, Dane:10$, Ian:10$, Natasha:76$, Hollin:72$"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+80$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "+20$"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "PP+60$"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole+ 40$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dank+ 20$"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "164$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Consignment money is approximately distributed,because I can't find an easy way to see amounts in transactions"
+          }
+        }
+      ],
+      "id": 19
+    },
+    {
+      "date": "4/9/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "603.68"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Dane: 62 Ian: 62 Hollin: 85"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "120"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "60"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "O"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole 80"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "DL 60"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "PP 60"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "223.68 (212 cash)"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": ""
+        }
+      ],
+      "id": 20
+    },
+    {
+      "date": "4/10/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "X"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": ""
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": ""
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": ""
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": ""
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "4/10/20"
+          }
+        }
+      ],
+      "id": 21
+    },
+    {
+      "date": "4/11/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Dane"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "X"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": ""
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": ""
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": ""
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": ""
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": ""
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": ""
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": ""
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": ""
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "4/11/20"
+          }
+        }
+      ],
+      "id": 22
+    },
+    {
+      "date": "4/12/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "425"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art 62, natasha 76, hollin 72"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+100$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "0"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Poole+40$ (should be 29$)"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Pp-0 (should be +11$)"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dank-0 (should be +30$)"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "225$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Number For consignment  are NET PROFIT- that's why smaller than before.."
+          }
+        }
+      ],
+      "id": 23
+    },
+    {
+      "date": "4/13/2020",
+      "lines": [
+        {
+          "id": 1,
+          "title": "Name:              ",
+          "content": {
+            "text": "Natasha"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Total in drawer:    ",
+          "content": {
+            "text": "587$"
+          }
+        },
+        {
+          "id": 3,
+          "title": "Salaries:           ",
+          "content": {
+            "text": "Art :62, Natasha: 76, hollin : 72, hobo: 6"
+          }
+        },
+        {
+          "id": 4,
+          "title": "Taxes:              ",
+          "content": {
+            "text": "+100$"
+          }
+        },
+        {
+          "id": 5,
+          "title": "Rent:               ",
+          "content": {
+            "text": "+60$"
+          }
+        },
+        {
+          "id": 6,
+          "title": "HG Money:           ",
+          "content": {
+            "text": "+160$"
+          }
+        },
+        {
+          "id": 7,
+          "title": "Consingment# 1:     ",
+          "content": {
+            "text": "Pp-0"
+          }
+        },
+        {
+          "id": 8,
+          "title": "Consingment# 2:     ",
+          "content": {
+            "text": "Poole+ 20$"
+          }
+        },
+        {
+          "id": 9,
+          "title": "Consingment# 3:     ",
+          "content": {
+            "text": "Dank+20$"
+          }
+        },
+        {
+          "id": 10,
+          "title": "Consingment# 4:     ",
+          "content": ""
+        },
+        {
+          "id": 11,
+          "title": "Left in Drawer:     ",
+          "content": {
+            "text": "227$"
+          }
+        },
+        {
+          "id": 12,
+          "title": "Notes:              ",
+          "content": {
+            "text": "Net profit calculated for consignments"
+          }
+        }
+      ],
+      "id": 24
     }
   ]
 }
